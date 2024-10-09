@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e8bd59c-c52b-4c51-ba8e-12bc2aa03cf6" name="Changes" comment="p04_mongo funguje">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject_souhrn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database_programing/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detabase_programing/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/database_programing/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2nCyjZHHRdSYa1CKrYe4uhQF94b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.connect_db.executor": "Run",
+    "Python.connect_mongo.executor": "Run",
+    "Python.jp01_insert_data.executor": "Run",
+    "Python.jp02_insert_many.executor": "Run",
+    "Python.jp03_find.executor": "Run",
+    "Python.jp04_delete.executor": "Run",
+    "Python.jp05_update.executor": "Run",
+    "Python.jp08_table_grades.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.models_students.executor": "Run",
+    "Python.p01_create_db.executor": "Run",
+    "Python.p01_mysql_connector.executor": "Run",
+    "Python.p01_task_1_create_db.executor": "Run",
+    "Python.p02_add_data.executor": "Run",
+    "Python.p02_add_students.executor": "Run",
+    "Python.p02_create_database.executor": "Run",
+    "Python.p02_task_4_add_data.executor": "Run",
+    "Python.p03_insert_data.executor": "Run",
+    "Python.p03_queries.executor": "Run",
+    "Python.p03_tasks_5_8.executor": "Run",
+    "Python.p04_alter_table.executor": "Run",
+    "Python.p04_select.executor": "Run",
+    "Python.p05_add_lockers.executor": "Run",
+    "Python.p05_delete.executor": "Run",
+    "Python.p06_joins.executor": "Run",
+    "Python.p06_show_databases.executor": "Run",
+    "Python.p06_task_1.executor": "Run",
+    "Python.p07_Exercise_1_address.executor": "Run",
+    "Python.p07_create_database_table.executor": "Run",
+    "Python.p07_task_2.executor": "Run",
+    "Python.p08_Exercise_2_grades_add_data.executor": "Run",
+    "Python.p08_insert_instruments.executor": "Run",
+    "Python.p08_table_grades.executor": "Run",
+    "Python.p08_task_3.executor": "Run",
+    "Python.p09_Exercise_2_grades_queries.executor": "Run",
+    "Python.p09_get_instruments_count.executor": "Run",
+    "Python.p09_grades_queries.executor": "Run",
+    "Python.p09_task_4.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/jardy/PycharmProjects/pythonProject/pythonProject_souhrn/detabase_programing/Jp04_mongo"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jardy\PycharmProjects\pythonProject\pythonProject_souhrn\detabase_programing\Jp04_mongo" />
+      <recent name="C:\Users\jardy\PycharmProjects\pythonProject\pythonProject_souhrn\detabase_programing" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject_souhrn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e8bd59c-c52b-4c51-ba8e-12bc2aa03cf6" name="Changes" comment="" />
+      <created>1728491487295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728491487295</updated>
+    </task>
+    <task id="LOCAL-00001" summary="git ignore">
+      <option name="closed" value="true" />
+      <created>1728503680204</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728503680204</updated>
+    </task>
+    <task id="LOCAL-00002" summary="p01_mysql funguje celá">
+      <option name="closed" value="true" />
+      <created>1728504922698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728504922698</updated>
+    </task>
+    <task id="LOCAL-00003" summary="p02_sqlalchemy funguje celá">
+      <option name="closed" value="true" />
+      <created>1728507769172</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728507769172</updated>
+    </task>
+    <task id="LOCAL-00004" summary="prejmenoval jsem database_programing">
+      <option name="closed" value="true" />
+      <created>1728508082161</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728508082161</updated>
+    </task>
+    <task id="LOCAL-00005" summary="prejmenoval jsem database_programing">
+      <option name="closed" value="true" />
+      <created>1728508096312</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728508096312</updated>
+    </task>
+    <task id="LOCAL-00006" summary="p03_sqlalchemy_cinematic funguje">
+      <option name="closed" value="true" />
+      <created>1728508660534</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728508660534</updated>
+    </task>
+    <task id="LOCAL-00007" summary="p04_mongo funguje">
+      <option name="closed" value="true" />
+      <created>1728509140992</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728509140992</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git ignore" />
+    <MESSAGE value="p01_mysql funguje celá" />
+    <MESSAGE value="p02_sqlalchemy funguje celá" />
+    <MESSAGE value="prejmenoval jsem database_programing" />
+    <MESSAGE value="p03_sqlalchemy_cinematic funguje" />
+    <MESSAGE value="p04_mongo funguje" />
+    <option name="LAST_COMMIT_MESSAGE" value="p04_mongo funguje" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
