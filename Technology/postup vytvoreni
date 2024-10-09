@@ -1,0 +1,6 @@
+posloupnost vytvareni
+Technology = koren
+hra = package
+definice = package
+__init__.py = definuje package
+
