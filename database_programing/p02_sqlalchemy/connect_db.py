@@ -1,7 +1,7 @@
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 
-from detabase_programing.p01_mysql.connection_details import *
+from database_programing.p01_mysql.connection_details import *
 
 #                   dialect+connector   ://user:pass@host:port/database
 #db = create_engine('mysql+mysqlconnector://test:test@localhost:3306/cinematic')
